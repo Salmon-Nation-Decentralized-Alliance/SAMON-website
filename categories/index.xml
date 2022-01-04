@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SAMON - Salmon Pool</title>
-    <link>/categories/</link>
+    <link>https://salmon-nation-decentralized-alliance.github.io/SAMON-website/categories/</link>
     <description>Recent content in Categories on SAMON - Salmon Pool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://salmon-nation-decentralized-alliance.github.io/SAMON-website/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
