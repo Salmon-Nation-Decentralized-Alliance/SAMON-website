@@ -1,0 +1,39 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Cardano Nation",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Ambassador's Guild",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "Hosted as a service by SAMON pool",
+            "company": "Ambassador's Guild"
+        }
+    },
+    "my-pool-ids": {
+        "0": "3ed0c5c6d486e8c9c2ab073d502df1d2dcf22f233704a14b02f80658"
+    },
+    "when-satured-then-recommend": {
+        "0": "54da9f3a89aa5b3f5750a0bfd257b93331094f139ee4e484e9effb0c",
+        "1": "e40edb5a243c9ef00296860c6b7c8272fd5923ac52b5050d68e80d9b"
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
